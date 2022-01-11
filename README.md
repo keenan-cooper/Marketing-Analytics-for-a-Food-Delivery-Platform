@@ -47,9 +47,9 @@ The following issues where identfied and rectified accordingly:
 After cleaning this dataset, it contains 2233 unique customer IDs and 28 variables. These variables detail the customers' profiles, purchasing habits, campaign successes/failures, and other marketing metrics. Most variables are either numerical or categorical in nature.
 I'll be looking for correlations and relationships between numerical and categorical variables. In my main notebook, I divided my exploratory visualization into three sections:
 
-    Section 1: Univariate Exploration (6.1)
-    Section 2: Bivariate Exploration (6.2)
-    Section 3: Multivariate Exploration (6.3)
+Section 1: Univariate Exploration (6.1)
+Section 2: Bivariate Exploration (6.2)
+Section 3: Multivariate Exploration (6.3)
 
 - There was a strong positive relationship between income and educational level.
 - Wine was the most popular product, amounting to over 50% of sales. 
@@ -60,7 +60,7 @@ I'll be looking for correlations and relationships between numerical and categor
 - The most recent campaign was the most successful while #2 campaign was least successful.
 - Most customers still preferred shopping in-store rather than using catalogs.
 
-## Key Insights for Presentation
+## Key Insights for Slide-Deck Presentation
 
 There were many threads to explore but I'll be looking mainly at these topics. The number on the bulleted lists represent the title and order of the visualizations used as they appeared in the exploratory section.
 
