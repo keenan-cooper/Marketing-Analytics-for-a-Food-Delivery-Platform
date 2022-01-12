@@ -36,7 +36,7 @@ As per Udacity, after completing this project, I was able to:
 - Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, which allowed me to understand distributions of variables and relationships between features.
 - Use design principles to create effective visualizations for communicating findings to an audience.
 
-## 4. Key Files<a id="files"></a>
+### 4. Key Files<a id="files"></a>
 - `marketing_data.csv`\
 Rather than use a tidy dataset provided by Udacity, I chose an external dataset because of its connection to sales and marketing--a topic I am interested in. This dataset was downloaded from a [kaggle dataset](https://www.kaggle.com/jackdaoud/marketing-data) and consists of 2,240 customers of an online food ordering and food delivery platform. The dataset contains data on:
     - Customer profiles
@@ -52,7 +52,7 @@ In part 1, exploratory data analysis, I conducted the bulk of my project in a Ju
 - `Part_II_slide_deck.ipynb` and `Part_II_slide_deck.slides.html`\
 In part 2, explanatory data analysis, I selected the visualizations that could be grouped together to form clear insights. From the jupyter notebook, I created a slide deck to easily communicate my findings and recommendatsions to the Chief Marketing Officer. 
 
-## Summary of Findings<a id="summary"></a>
+### 5. Summary of Findings<a id="summary"></a>
 
 - There was a strong positive relationship between income and educational level.
 - Wine was the most popular product, amounting to over 50% of sales. 
