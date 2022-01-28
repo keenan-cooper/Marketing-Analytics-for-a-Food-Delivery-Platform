@@ -83,7 +83,7 @@ There were many threads to explore but I settled on 4 specific metrics to analyz
     - #22 Income, total amount spent, and total purchases vs number of dependents (regression plots)
     - #32 Relationship between income, total amount spent, and the number of dependents (categorical scatter plot)
 
-Please see my [slide deck](https://github.com/keenan-cooper/Marketing-Analytics-for-a-Food-Delivery-Platform/blob/main/Part_II_slide_deck.slides.html) for an executive summary with the above visualizations.
+Please see my [slide deck](https://keenan-cooper.github.io/Marketing-Analytics-for-a-Food-Delivery-Platform/Part_II_slide_deck.html) for an executive summary with the above visualizations.
 
 ### 6. Acknowledgements<a id="acknowledgements"></a>
 This project was completed as part of the Udacity's [Data Analyst Nanodegree](https://github.com/keenan-cooper/WeRateDogs-Twitter-Data-from-2015-to-2017/files/7847764/nd002-syllabus_2018-June_v9.pdf).\
